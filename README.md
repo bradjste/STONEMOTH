@@ -10,6 +10,7 @@ Jam page: https://ldjam.com/events/ludum-dare/56/ld56-game/edit
 
 
 **Controls**:
+
 Mouse scroll: Zoom in/out
 
 Left click: Move swarm 1
