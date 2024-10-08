@@ -9,9 +9,11 @@ Play here: https://bradjste.itch.io/stonemoth
 Jam page: https://ldjam.com/events/ludum-dare/56/ld56-game/edit
 
 
-Controls:
-Mouse scroll: Zoom in/out \n
+**Controls**:
+Mouse scroll: Zoom in/out
+
 Left click: Move swarm 1
+
 Right click: Move swarm 2 (when applicable)
 
 
